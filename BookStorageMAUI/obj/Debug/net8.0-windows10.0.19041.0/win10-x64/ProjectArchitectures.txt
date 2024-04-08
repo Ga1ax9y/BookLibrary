@@ -1,0 +1,1 @@
+C:\Users\Alexander\Desktop\bsuir\OOP\BookStorage\BookStorageMAUI\BookStorageMAUI.csproj;x64
