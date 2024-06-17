@@ -1,0 +1,13 @@
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\bin\Release\MyProjectLibrary.exe.config
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\bin\Release\MyProjectLibrary.exe
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\bin\Release\MyProjectLibrary.pdb
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\bin\Release\MyProjectDomain1.dll
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\bin\Release\MyProjectDomain1.pdb
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.Form1.resources
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.Properties.Resources.resources
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjec.32173936.Up2Date
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.exe
+C:\Users\Alexander\Desktop\bsuir\OOP\MyProjectLibrary\MyProjectLibrary\obj\Release\MyProjectLibrary.pdb
